@@ -3,7 +3,7 @@
 I'm a research scientist at Rakuten Institute of Technology. I have an interest in reinforcement learning, bandit algorithm, off-policy evaluation, causal discovery, bioinformatics.
 
 ## Research
-### Ppaper
+### Paper
 1. [Position Bias Estimation with Item Embedding for Sparse Dataset (2024, WWW, short)](https://dl.acm.org/doi/abs/10.1145/3589335.3651546)
 2. Counterfactual Model Selection in Contextual Bandits (2025, SIGIR, short)
 
