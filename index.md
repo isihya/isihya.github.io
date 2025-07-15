@@ -5,7 +5,7 @@ I'm a research scientist at Rakuten Institute of Technology. I have an interest 
 ## Research
 ### Paper
 1. [Position Bias Estimation with Item Embedding for Sparse Dataset (2024, WWW, short)](https://dl.acm.org/doi/abs/10.1145/3589335.3651546)
-2. Counterfactual Model Selection in Contextual Bandits (2025, SIGIR, short)
+2. [Counterfactual Model Selection in Contextual Bandits (2025, SIGIR, short)](https://dl.acm.org/doi/10.1145/3726302.3730176)
 
 ### Workshop
 1. [Dynamic collaborative filtering Thompson Sampling for cross-domain advertisements recommendation (2022, AdKDD)](https://isihya.github.io/camera_ready_adkdd2022.pdf)
